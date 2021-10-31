@@ -1,6 +1,7 @@
-## EGG CATCHER
+## EGG CATCHER 🥚🥚🥚�
 <br></br>
 
+![logo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 [Download the game from here to run](https://github.com/helihub-dev/HackerINTR/blob/main/egg.py) 
 
